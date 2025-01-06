@@ -36,10 +36,10 @@ The **Job Listing Project** is a modern platform that enables companies to post 
 ## 📦 Installation
 
 1. Clone the repository from GitHub:  
-   `git clone https://github.com/farukozgu/job-listing-project.git`  
+   `git clone [https://github.com/muratcansalihW/ListJob.git]`  
 
 2. Navigate to the project folder:  
-   `cd job-listing-project`  
+   `cd ListJob`  
 
 3. Install the required dependencies:  
    `npm install`  
@@ -64,4 +64,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ---
 
-👨‍💻 Built with ❤️ by [Faruk](https://github.com/farukozgu)
+👨‍💻 Built with ❤️ by [Muratcan](https://github.com/muratcansalihW)
