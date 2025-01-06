@@ -1,5 +1,5 @@
 import "./App.css";
-import AdminPanel from "./components/adminPanel";
+import AdminPanel from "./components/AdminPanel";
 import JobList from "./components/jobList";
 import React, { useState, useEffect } from "react";
 import ReactDOM from "react-dom";
