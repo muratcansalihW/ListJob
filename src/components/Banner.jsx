@@ -1,5 +1,4 @@
 import React from "react";
-import video from "../assets/banner_video.mp4";
 
 function Banner() {
   return (
